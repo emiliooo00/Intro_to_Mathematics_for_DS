@@ -1,0 +1,56 @@
+# =============================
+# macOS system files
+# =============================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# =============================
+# iCloud Drive conflicts
+# =============================
+*.icloud
+
+# =============================
+# Python
+# =============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg/
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# =============================
+# Jupyter Notebook caches
+# =============================
+.ipynb_checkpoints/
+
+# =============================
+# VS Code
+# =============================
+.vscode/
+.history/
+
+# =============================
+# Temporary / backup files
+# =============================
+*~
+*.tmp
+*.swp
+*.swo
+
+
+# =============================
+# Logs
+# =============================
+*.log
+
